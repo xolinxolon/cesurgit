@@ -6,6 +6,7 @@ public class HolaGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola GIT");
+		System.out.println("Hola GIT2");
 	}
 
 }
